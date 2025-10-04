@@ -181,6 +181,4 @@ CALCULATE(
 ## 🏁 Conclusion
 This Power BI project demonstrates how raw operational data can be transformed into a strategic insight platform.  
 It shows that well-designed dashboards go beyond visualization — they tell a story, reveal hidden opportunities, and guide smarter decisions.
-#   P O W E R _ B I _ D A S H B O A R D S 
- 
- 
+#
