@@ -58,7 +58,7 @@ Developed several **DAX formulas** to calculate:
 This required advanced use of `SELECTEDVALUE`, `SWITCH`, and `CALCULATE` to make metrics respond instantly to slicer interactions.
 
 > **Example:**  
-> The `2-PG1 CHART units` measure dynamically adjusts the suffix (%, $, RSF) displayed in chart titles depending on the selected KPI.
+> The `CHART units` measure dynamically adjusts the suffix (%, $, RSF) displayed in chart titles depending on the selected KPI.
 
 ### 4. **Visualization and Design**
 Designed the dashboard using **Power BI’s modern visual storytelling approach**, focusing on:
@@ -182,3 +182,4 @@ CALCULATE(
 This Power BI project demonstrates how raw operational data can be transformed into a strategic insight platform.  
 It shows that well-designed dashboards go beyond visualization — they tell a story, reveal hidden opportunities, and guide smarter decisions.
 #
+
