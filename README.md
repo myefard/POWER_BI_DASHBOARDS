@@ -9,6 +9,7 @@ It demonstrates end-to-end dashboard design — from data preparation to visuali
 ![Dashboard Overview](assets/SC1.jpg)
 
 
+
 In today’s hybrid work environment, managing and optimizing **office space utilization** is a growing challenge for organizations. Decision-makers need accurate, real-time insights into how spaces are used, which business units are under- or over-utilizing areas, and how workplace patterns evolve over time.
 
 Recognizing this need, I designed and developed a **Power BI dashboard** that visualizes key performance indicators (KPIs) and metrics for space utilization. The dashboard provides a clear and dynamic view of how different departments perform in terms of occupancy, cost efficiency, and employee presence rates — helping leaders make informed, data-driven decisions.
